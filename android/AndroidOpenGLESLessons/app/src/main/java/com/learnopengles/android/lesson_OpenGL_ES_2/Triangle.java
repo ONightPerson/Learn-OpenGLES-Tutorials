@@ -77,7 +77,7 @@ public class Triangle {
                 1, 1, 1, 0,
                 0, 0, 1, 0,
                 0, 1, 0, 0,
-                
+
                 
         };
         ByteBuffer cbb = ByteBuffer.allocateDirect(colors.length * 4);
