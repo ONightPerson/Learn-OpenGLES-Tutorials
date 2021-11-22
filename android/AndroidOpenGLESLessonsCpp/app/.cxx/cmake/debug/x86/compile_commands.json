@@ -1,0 +1,103 @@
+[
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/graphics/GLUtils.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/GLUtils.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/GLUtils.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/graphics/Matrix.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/Matrix.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/Matrix.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson1/Native1Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson1/Native1Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson1/Native1Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson2/Native2Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson2/Native2Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson2/Native2Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson3/Native3Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson3/Native3Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson3/Native3Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson4/Native4Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson4/Native4Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson4/Native4Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson5/Native5Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson5/Native5Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson5/Native5Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson6/Native6Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson6/Native6Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson6/Native6Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/Native7Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Native7Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Native7Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/Cubes.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Cubes.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Cubes.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesClientSide.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSide.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSide.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesClientSideWithStride.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSideWithStride.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSideWithStride.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesWithVbo.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVbo.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVbo.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesWithVboWithStride.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVboWithStride.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVboWithStride.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/GenData.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/GenData.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/GenData.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson8/Native8Lesson.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/Native8Lesson.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/Native8Lesson.cpp"
+},
+
+{
+  "directory": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86",
+  "command": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlesson_lib_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/lesson-lib.dir/src/main/cpp/lesson8/HeightMap.cpp.o -c /Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/HeightMap.cpp",
+  "file": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/HeightMap.cpp"
+}
+]

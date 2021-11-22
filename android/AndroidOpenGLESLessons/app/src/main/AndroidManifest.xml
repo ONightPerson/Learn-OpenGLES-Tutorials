@@ -49,6 +49,8 @@
             android:name=".lesson8.LessonEightActivity"
             android:label="@string/lesson_eight" />
 
+        <activity android:name=".lesson_OpenGL_ES_2.TriangleActivity"/>
+
         <service
             android:name=".livewallpaper.LessonThreeWallpaperService"
             android:label="@string/lesson_three_wallpaper_1"

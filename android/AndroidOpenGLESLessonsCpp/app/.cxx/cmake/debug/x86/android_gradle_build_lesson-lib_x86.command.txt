@@ -1,0 +1,7 @@
+Executable : /Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86
+lesson-lib
+jvmArgs : 
+

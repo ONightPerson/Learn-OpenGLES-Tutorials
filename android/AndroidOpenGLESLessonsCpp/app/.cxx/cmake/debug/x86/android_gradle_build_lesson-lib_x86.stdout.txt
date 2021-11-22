@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/x86'
+ninja: no work to do.

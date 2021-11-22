@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/CMakeLists.txt",
+    "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+    "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "lesson-lib-Release-x86_64": {
+      "artifactName": "lesson-lib",
+      "buildCommand": "/Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/release/x86_64\" lesson-lib",
+      "abi": "x86_64",
+      "output": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/build/intermediates/cmake/release/obj/x86_64/liblesson-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

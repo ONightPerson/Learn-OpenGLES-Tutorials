@@ -1,0 +1,19 @@
+# ninja log v5
+11	448	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson1/Native1Lesson.cpp.o	ed5815ca0f42e8e5
+28	451	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson4/Native4Lesson.cpp.o	278f559486a25fb4
+15	453	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson2/Native2Lesson.cpp.o	664b406cd2bb40b
+1	469	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/graphics/GLUtils.cpp.o	a08c2e389979f19a
+20	476	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson3/Native3Lesson.cpp.o	16fb3dfe31d54f72
+36	479	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson6/Native6Lesson.cpp.o	329eb9272836ad2
+32	484	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson5/Native5Lesson.cpp.o	f28a8a18efc9eb41
+7	566	1637336491	CMakeFiles/lesson-lib.dir/src/main/cpp/graphics/Matrix.cpp.o	e7ed8600ec204442
+73	822	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesWithVboWithStride.cpp.o	53d52161806348e
+66	856	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesWithVbo.cpp.o	ddcdcfbf28da196d
+56	875	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesClientSideWithStride.cpp.o	57d52b72a2563b67
+51	894	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/CubesClientSide.cpp.o	84382df45244f83a
+47	1083	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/Cubes.cpp.o	4834aba31d423f07
+452	1198	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson8/Native8Lesson.cpp.o	7e1f8c0a0fa1f17b
+454	1211	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson8/HeightMap.cpp.o	64aabbeb22150abe
+43	1323	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/Native7Lesson.cpp.o	8f372d34c45a8a22
+449	1485	1637336492	CMakeFiles/lesson-lib.dir/src/main/cpp/lesson7/GenData.cpp.o	bc13f708301a33c6
+1485	1573	1637336492	../../../../build/intermediates/cmake/debug/obj/x86/liblesson-lib.so	a2f6817e8d67f3a3

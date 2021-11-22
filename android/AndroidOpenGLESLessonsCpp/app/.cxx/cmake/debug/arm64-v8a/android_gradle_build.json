@@ -1,0 +1,192 @@
+{
+  "stringTable": {
+    "0": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlesson_lib_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -fno-rtti -fno-exceptions -Wall -O0 -fno-limit-debug-info -fno-experimental-isel -fPIC"
+  },
+  "buildFiles": [
+    "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/CMakeLists.txt",
+    "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake",
+    "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "lesson-lib-Debug-arm64-v8a": {
+      "buildCommand": "/Users/liubaozhu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/debug/arm64-v8a\" lesson-lib",
+      "buildType": "debug",
+      "toolchain": "2050317032",
+      "abi": "arm64-v8a",
+      "artifactName": "lesson-lib",
+      "files": [
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/GLUtils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/Matrix.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson1/Native1Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson2/Native2Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson3/Native3Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson4/Native4Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson5/Native5Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson6/Native6Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Native7Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Cubes.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSide.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSideWithStride.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVbo.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVboWithStride.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/GenData.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/Native8Lesson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/HeightMap.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/GLUtils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/graphics/Matrix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson1/Native1Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson2/Native2Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson3/Native3Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson4/Native4Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson5/Native5Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson6/Native6Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Native7Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/Cubes.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSide.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesClientSideWithStride.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVbo.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/CubesWithVboWithStride.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson7/GenData.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/Native8Lesson.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/src/main/cpp/lesson8/HeightMap.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/build/intermediates/cmake/debug/obj/arm64-v8a/liblesson-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2050317032": {
+      "cppCompilerExecutable": "/Users/liubaozhu/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,3 @@
+/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/liubaozhu/priLib/Learn-OpenGLES-Tutorials/android/AndroidOpenGLESLessonsCpp/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/lesson-lib.dir
