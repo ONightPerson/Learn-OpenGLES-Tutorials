@@ -77,7 +77,6 @@ public class Triangle {
                 1, 1, 1, 0,
                 0, 0, 1, 0,
                 0, 1, 0, 0,
-                
         };
         ByteBuffer cbb = ByteBuffer.allocateDirect(colors.length * 4);
         cbb.order(ByteOrder.nativeOrder()); // 设置字节序为本地操作系统顺序
